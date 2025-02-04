@@ -3,7 +3,7 @@
 ## Overview
 SDP 3D Indoor Mapping is a project designed to enable indoor environment mapping using ROS (Robot Operating System) with the Melodic distribution. This guide provides the steps for installing ROS Melodic on Ubuntu and setting up the necessary environment.
 
-## ROS Melodic Installation Guide
+## 1. ROS Melodic Installation Guide
 
 ### 1. Setup Your Sources List
 Run the following command to add the ROS package repository to your system:
@@ -52,7 +52,7 @@ source /opt/ros/melodic/setup.bash
 
 ----------------------------------------------------------------------
 
-## Livox ROS Driver 2 Installation Guide
+## 2. Livox ROS Driver 2 Installation Guide
 
 ### 1. Preparation
 #### 1.1 OS Requirements
@@ -171,7 +171,7 @@ This guide provides the essential steps to install and run **Livox ROS Driver 2*
 
 -------------------------------------------------------------------
 
-## FAST-LIO Installation Guide
+## 3. FAST-LIO Installation Guide
 
 ### 1. Preparation
 #### 1.1 OS Requirements
